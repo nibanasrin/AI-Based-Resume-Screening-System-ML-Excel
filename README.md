@@ -41,7 +41,11 @@ The project also includes an interactive Excel dashboard for visualizing candida
 
 ---
 
-## Dashboard
+## Dashboard   
+
+### Dashboard Preview
+
+![AI Resume Screening Dashboard](AI%20resume%20screening.png)
 
 The Excel dashboard includes:
 
